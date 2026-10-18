@@ -1,0 +1,14 @@
+CLAUDE.md
+claude.md
+.claude/
+AGENTS.md
+imp-l/
+
+.env
+.env.*
+!.env.example
+spikes/
+node_modules/
+.venv/
+__pycache__/
+.next/
